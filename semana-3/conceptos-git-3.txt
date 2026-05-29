@@ -1,0 +1,11 @@
+Aquí tienes un resumen corto de los conceptos fundamentales que hacen funcionar a Git: 
+ 
+ Repositorio (Repo): Es la carpeta principal o base de datos donde Git almacena tu proyecto junto con todo su historial de cambios. 
+
+Commit: Es como tomarle una "fotografía" o instantánea a tu proyecto. Guarda el estado exacto de tus archivos en un momento específico y con un mensaje que explica qué cambiaste. 
+ 
+ Rama (Branch): Es una línea de tiempo paralela. Te permite trabajar en nuevas ideas, funciones o corregir errores en un espacio aislado, sin riesgo de dañar el código principal.
+ 
+ Merge (Fusión): Es el proceso de unir diferentes líneas de tiempo. Se usa para integrar los cambios terminados de una rama secundaria de vuelta hacia la rama principal de tu proyecto.
+ 
+ Estos cuatro elementos trabajan en conjunto para permitirte experimentar con libertad y llevar un registro exacto de cada paso en el desarrollo.
