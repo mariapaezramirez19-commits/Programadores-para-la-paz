@@ -1,0 +1,5 @@
+Utilizar contraseñas seguras y cambiarlas periódicamente para proteger las cuentas de los usuarios.
+Implementar sistemas de autenticación para verificar la identidad de las personas que acceden a la plataforma.
+Mantener actualizados los programas y sistemas para corregir vulnerabilidades de seguridad.
+Realizar copias de seguridad frecuentes para evitar la pérdida de información importante.
+ Proteger los datos personales de los usuarios mediante controles de acceso y políticas de privacidad adecuadas.
