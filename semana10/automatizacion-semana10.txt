@@ -1,0 +1,3 @@
+EVENTO: Cuando un ciudadano registra un nuevo reporte en la plataforma.
+MENSAJE: Nuevo reporte recibido. Revisar el sistema para realizar el seguimiento.
+INFORMACION: No deben enviarse nombres completos, números de documento, direcciones, teléfonos, correos electrónicos, contraseñas ni información sensible de los ciudadanos

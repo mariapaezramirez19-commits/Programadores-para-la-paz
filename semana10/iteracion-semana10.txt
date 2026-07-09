@@ -1,0 +1,9 @@
+¿Qué dos tareas haría primero?
+Permitir registrar una incidencia.
+Enviar una alerta al coordinador mediante Telegram.
+¿Por qué son las más importantes?
+Porque primero es necesario que los ciudadanos puedan registrar los reportes y que los responsables sean notificados rápidamente para iniciar el seguimiento.
+¿Cuándo considero que una tarea está terminada?
+Funciona correctamente.
+Fue probada sin errores.
+Quedó registrada y subida al repositorio de GitHub.
